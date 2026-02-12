@@ -1,4 +1,4 @@
-Este programa foi criado a fim de analisar imagens de bananas e identificar com base na intensidade das cores de cada pixel quantos % da fruta está verde, madura, podre ou machucada.
+Este projeto foi criado por Yuri Santana Oliveira e José Clenildo Menezes Silva Sobrinho a fim de analisar imagens de bananas e identificar com base na intensidade das cores de cada pixel quantos % da fruta está verde, madura, podre ou machucada.
 
 Este processo se inicia com a localização da banana na imagem em questão, é realizado um limiar das bordas da fruta. Identificado o fundo da imagem, separação da fruta do fundo.
 
